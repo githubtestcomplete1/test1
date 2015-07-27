@@ -32,6 +32,15 @@
 				<Prp name="type" type="S" value="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}"/>
 				<Prp name="typename" type="S" value="Keyword Testing"/>
 			</Node>
+			<Node name="manualtests">
+				<Node name="item data">
+					<Prp name="storage" type="S" value="ManualTests\ManualTests.tcMTs"/>
+				</Node>
+				<Prp name="key" type="S" value="{6D5F3293-B482-477C-98CF-F9252B6A29FE}"/>
+				<Prp name="pluginname" type="S" value=""/>
+				<Prp name="type" type="S" value="{F57E13C5-95C5-4DC4-BE5A-9A456AE18F15}"/>
+				<Prp name="typename" type="S" value="Manual Tests"/>
+			</Node>
 			<Node name="namemapping">
 				<Node name="item data">
 					<Prp name="relpath" type="S" value="NameMapping\NameMapping.tcNM"/>
@@ -68,6 +77,15 @@
 				<Prp name="type" type="S" value="{90D101C8-80C7-48D4-9055-2E451B9BCD75}"/>
 				<Prp name="typename" type="S" value="Tested Applications"/>
 			</Node>
+			<Node name="userforms">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="UserForms\UserForms.tcUsrFms"/>
+				</Node>
+				<Prp name="key" type="S" value="{C82F6577-113C-4210-BF14-AFAB1BEF5733}"/>
+				<Prp name="pluginname" type="S" value="User Forms"/>
+				<Prp name="type" type="S" value="{1C914193-A452-48E8-A8FD-BCA13ACFF263}"/>
+				<Prp name="typename" type="S" value="User Forms"/>
+			</Node>
 		</Node>
 		<Node name="config">
 			<Prp name="language" type="S" value="{897793E3-73F3-4895-A956-3D41D3A24A45}"/>
@@ -76,6 +94,7 @@
 			<Node name="advanced">
 				<Node name="folders"/>
 				<Node name="references">
+					<Prp name="{c82f6577-113c-4210-bf14-afab1bef5733}" type="S" value=""/>
 					<Prp name="{c997e9cc-4ee5-432d-bcc9-fef7432e2be1}" type="S" value=""/>
 				</Node>
 				<Prp name="caption" type="S" value="Advanced"/>

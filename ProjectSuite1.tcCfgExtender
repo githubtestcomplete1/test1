@@ -25,13 +25,14 @@
 				<Node name="{8ee82d46-af98-4371-988c-39e367c94873}"/>
 			</Node>
 			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
-				<Prp name="activity" type="S" value="{4750A933-2439-4025-980A-613EB1A9EF00}"/>
+				<Prp name="activity" type="S" value="{C82F6577-113C-4210-BF14-AFAB1BEF5733}"/>
 			</Node>
 			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}"/>
 			<Node name="{415b5aa1-c6ac-4d4d-9a53-063a521a45ab}">
 				<Node name="workspace">
 					<Node name="0">
 						<Node name="editor">
+							<Node name="{4f9540d5-d9ab-44cd-8dca-73f5f2e7a572}"/>
 							<Node name="{8c45957c-f4b3-4dd7-9212-49cbd350f69f}">
 								<Prp name="key" type="S" value="{C3905F7C-61A0-4505-9C41-28782AFBE70B}"/>
 							</Node>
@@ -48,6 +49,7 @@
 								</Node>
 								<Prp name="key" type="S" value="{6C2DAAE6-8EF6-4CF5-90F2-3A82644838F5}"/>
 							</Node>
+							<Node name="{eb7c9d82-bc63-4167-ad95-a6b053bbda71}"/>
 							<Prp name="editor" type="S" value="{24838096-BFC9-47FD-8F3E-161FD21C2F6F}"/>
 							<Prp name="focused" type="S" value="{6C2DAAE6-8EF6-4CF5-90F2-3A82644838F5}"/>
 						</Node>
@@ -55,6 +57,9 @@
 					</Node>
 					<Node name="1">
 						<Node name="editor">
+							<Node name="{18d21374-749a-4b12-9591-aeba7c5332a9}"/>
+							<Node name="{9185a4c3-0780-497d-b02d-ad3af4e9cf98}"/>
+							<Node name="{d26a70c5-94dd-4095-922f-2de8d44eae70}"/>
 							<Node name="{f8a33ae1-4de7-4d58-b41e-fe35fd36deba}">
 								<Prp name="key" type="S" value="{98A58C9F-72EB-4461-AF55-4DF6408316B4}"/>
 							</Node>
@@ -90,6 +95,7 @@
 			<Node name="{fc9c0755-2819-4b25-8964-06a87b81e1ad}">
 				<Node name="projectsuite1">
 					<Node name="testproject2">
+						<Node name="advanced"/>
 						<Node name="keywordtests"/>
 					</Node>
 				</Node>
