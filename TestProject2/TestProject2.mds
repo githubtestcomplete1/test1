@@ -22,86 +22,11 @@
 		<Node name="analysis">
 			<Prp name="key" type="S" value="{DB087563-190C-4DE7-9573-1F21817DEA63}"/>
 		</Node>
-		<Node name="child list">
-			<Node name="keywordtests">
-				<Node name="item data">
-					<Prp name="relpath" type="S" value="KeywordTests\KeywordTests.tcKDT"/>
-				</Node>
-				<Prp name="key" type="S" value="{D3D4B14E-121E-4D4B-B0D0-63C102EBA93F}"/>
-				<Prp name="pluginname" type="S" value="Keyword Testing"/>
-				<Prp name="type" type="S" value="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}"/>
-				<Prp name="typename" type="S" value="Keyword Testing"/>
-			</Node>
-			<Node name="manualtests">
-				<Node name="item data">
-					<Prp name="storage" type="S" value="ManualTests\ManualTests.tcMTs"/>
-				</Node>
-				<Prp name="key" type="S" value="{6D5F3293-B482-477C-98CF-F9252B6A29FE}"/>
-				<Prp name="pluginname" type="S" value=""/>
-				<Prp name="type" type="S" value="{F57E13C5-95C5-4DC4-BE5A-9A456AE18F15}"/>
-				<Prp name="typename" type="S" value="Manual Tests"/>
-			</Node>
-			<Node name="namemapping">
-				<Node name="item data">
-					<Prp name="relpath" type="S" value="NameMapping\NameMapping.tcNM"/>
-				</Node>
-				<Prp name="key" type="S" value="{BBA18711-536B-4F7E-B5E7-723286D028CD}"/>
-				<Prp name="pluginname" type="S" value="NameMapping"/>
-				<Prp name="type" type="S" value="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}"/>
-				<Prp name="typename" type="S" value="Name Mapping"/>
-			</Node>
-			<Node name="script">
-				<Node name="item data">
-					<Prp name="relpath" type="S" value="Script\Script.tcScript"/>
-				</Node>
-				<Prp name="key" type="S" value="{C997E9CC-4EE5-432D-BCC9-FEF7432E2BE1}"/>
-				<Prp name="pluginname" type="S" value="Script"/>
-				<Prp name="type" type="S" value="{9252F941-DB23-4FCA-AA50-858B33BB4A19}"/>
-				<Prp name="typename" type="S" value="Script"/>
-			</Node>
-			<Node name="stores">
-				<Node name="item data">
-					<Prp name="relpath" type="S" value="Stores\Stores.tcStores"/>
-				</Node>
-				<Prp name="key" type="S" value="{D58809C0-7585-41B8-B1A3-3EEEAD5A8975}"/>
-				<Prp name="pluginname" type="S" value="Stores"/>
-				<Prp name="type" type="S" value="{5238AF17-5FE2-48FF-8BCC-9803A975A4F4}"/>
-				<Prp name="typename" type="S" value="Stores"/>
-			</Node>
-			<Node name="testedapps">
-				<Node name="item data">
-					<Prp name="storage" type="S" value="TestedApps\TestedApps.tcTAs"/>
-				</Node>
-				<Prp name="key" type="S" value="{B4EEF2AF-98ED-4B8B-AF03-479D63900C01}"/>
-				<Prp name="pluginname" type="S" value=""/>
-				<Prp name="type" type="S" value="{90D101C8-80C7-48D4-9055-2E451B9BCD75}"/>
-				<Prp name="typename" type="S" value="Tested Applications"/>
-			</Node>
-			<Node name="userforms">
-				<Node name="item data">
-					<Prp name="relpath" type="S" value="UserForms\UserForms.tcUsrFms"/>
-				</Node>
-				<Prp name="key" type="S" value="{C82F6577-113C-4210-BF14-AFAB1BEF5733}"/>
-				<Prp name="pluginname" type="S" value="User Forms"/>
-				<Prp name="type" type="S" value="{1C914193-A452-48E8-A8FD-BCA13ACFF263}"/>
-				<Prp name="typename" type="S" value="User Forms"/>
-			</Node>
-		</Node>
+		<Node name="child list"/>
 		<Node name="config">
 			<Prp name="language" type="S" value="{897793E3-73F3-4895-A956-3D41D3A24A45}"/>
 		</Node>
-		<Node name="folders">
-			<Node name="advanced">
-				<Node name="folders"/>
-				<Node name="references">
-					<Prp name="{c82f6577-113c-4210-bf14-afab1bef5733}" type="S" value=""/>
-					<Prp name="{c997e9cc-4ee5-432d-bcc9-fef7432e2be1}" type="S" value=""/>
-				</Node>
-				<Prp name="caption" type="S" value="Advanced"/>
-				<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
-				<Prp name="moniker" type="S" value="{69583268-92F3-49FA-B573-C831F5ABC27B}"/>
-			</Node>
-		</Node>
+		<Node name="folders"/>
 		<Node name="issue tracking">
 			<Prp name="key" type="S" value="{6958884B-83AB-4316-9C33-423DB0B68DD6}"/>
 		</Node>
